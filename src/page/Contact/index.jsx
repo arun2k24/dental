@@ -62,11 +62,11 @@ const Contact = () => {
           <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
 
           <p className="text-gray-600 mb-4">
-            Dr Cherian's Smile & Dental Clinic
+            Dr Cheri Smile & Dental Clinic
           </p>
 
           <p className="text-gray-600 mb-4">
-            Kaloor-Kadavanthara Rd, Kochi - 682020,
+            Kattor-Kadayantor Rd, Kochi - 682020,
             Kerala, India
           </p>
 

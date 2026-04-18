@@ -101,7 +101,7 @@ const About = () => {
               
               <div className="text-slate-600 leading-relaxed space-y-4">
                 <p>
-                  <span className="font-bold text-slate-900">Dr. Cherian K. Abraham</span>, 
+                  <span className="font-bold text-slate-900">Dr. Cheri K. Abraham</span>, 
                   CEO of Dr.Simmis's Smile and Cosmetic Dental Clinic, studied in College of Dental Surgery, 
                   Kasturba Medical College, Mangalore University.
                 </p>

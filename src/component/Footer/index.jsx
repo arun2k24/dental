@@ -50,7 +50,7 @@ const Footer = () => {
 
           <div className="flex items-start gap-3 mb-3">
             <FaPhoneAlt className="text-blue-400 mt-1" />
-            <p>98460 09004</p>
+            <p>99999993333</p>
           </div>
 
           <div className="flex items-start gap-3 mb-3">
@@ -61,8 +61,8 @@ const Footer = () => {
           <div className="flex items-start gap-3">
             <FaMapMarkerAlt className="text-blue-400 mt-1" />
             <p>
-              Above Cochin Medicals, Kaloor–Kadavanthara Rd, Kadavanthra Junction,
-              Ernakulam, Kochi - 682 020, Kerala, India.
+              Above kodakal Medicals, Kalor–Kadavayur Rd, Kadavayur Junction,
+              ettikal, Kochi - 684 556, Kerala, India.
             </p>
           </div>
         </div>
